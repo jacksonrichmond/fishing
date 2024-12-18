@@ -27,7 +27,7 @@ Claim;CLAIM;ЗАБРАТЬ
 Bonus;BONUS;БОНУС
 Score_title;YOUR SCORE;ВАШ СЧЕТ
 New_record; NEW RECORD!; НОВЫЙ РЕКОРД!
-Unlock_hook;UNLOCK#RANDOM;ОТКРЫТЬ#НОВЫЙ
+Unlock_hook;Claim#Prize;ОТКРЫТЬ#НОВЫЙ
 More_hooks_coming;MORE HOOKS COMING SOON!;БОЛЬШЕ КРЮЧКОВ СОВСЕМ СКОРО!
 Settings;SETTINGS;НАСТРОЙКИ
 Sounds;SOUNDS;ЗВУКИ
