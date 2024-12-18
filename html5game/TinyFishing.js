@@ -2327,7 +2327,7 @@ _lp._Qp=0?1:0;_86(_lp,_mp,0,0);_lp._sc=1?1:0;_lp._6t=1;if(yyGetBool(_N4(_lp,_mp,
 function _fi(_lp,_mp){_96(_lp,_mp);_U8(_lp,_mp,_lp.id,81);_lp._fI=_Lb(_lp,_mp,_lp.x,_lp.y,64);_lp._aI=0?1:0;_lp._Dr=0;_lp._nI=(-1);_lp._RU=30;}// /// @description Insert description here 
 function _gi(_lp,_mp){_96(_lp,_mp);if(yyGetBool(_lp._nI)){{_zp(_lp,_mp,_lp._nI)._tr(_zp(_lp,_mp,_lp._nI)._tq+yyftime(_Sp(_lp._RU),_Sp(global._bx)));if(yyfgreater(_zp(_lp,_mp,_lp._nI)._tq,9)){{_lp._RU=(-200);}};if(yyfless(_zp(_lp,_mp,
 _lp._nI)._tq,(-9))){{_lp._RU=200;}};}};}function _hi(_lp,_mp){_fu(_lp,_mp);}// /// @description Insert description here 
-function _ii(_lp,_mp){_96(_lp,_mp);_lp._Qt(81);_zp(_lp,_mp,_lp._fI)._Qt(79);_lp._4t=_M6(_lp,_mp,"HOOKS");if(yyfgreaterequal(_zp(_lp,_mp,global._Dw)._1G,_Q9(_lp,_mp))){{var _5r=0;var _Iq=0;for(;yyfless(_Iq,_zp(_lp,_mp,global._Dw)._fF);_Iq++){{_lp._Fr=_zp(_lp,_mp,global._Dw)._gF[_yq(_Iq,_zp(_lp,_mp,global._Dw)._gF)];if(!yyGetBool(_Ou(_lp._Fr,"unlocked"))){{_5r++;break;}};}};if(yyfgreater(_5r,
+function _ii(_lp,_mp){_96(_lp,_mp);_lp._Qt(81);_zp(_lp,_mp,_lp._fI)._Qt(79);_lp._4t=_M6(_lp,_mp,"Weekly Quest");if(yyfgreaterequal(_zp(_lp,_mp,global._Dw)._1G,_Q9(_lp,_mp))){{var _5r=0;var _Iq=0;for(;yyfless(_Iq,_zp(_lp,_mp,global._Dw)._fF);_Iq++){{_lp._Fr=_zp(_lp,_mp,global._Dw)._gF[_yq(_Iq,_zp(_lp,_mp,global._Dw)._gF)];if(!yyGetBool(_Ou(_lp._Fr,"unlocked"))){{_5r++;break;}};}};if(yyfgreater(_5r,
 0)){_ka(_lp,_mp,_lp.id)};}};}// /// @description Insert description here
 function _ji(_lp,_mp){_Va(_lp,_mp);}function _ki(_lp,_mp){_fu(_lp,_mp);}// /// @description Insert description here
 function _li(_lp,_mp){_96(_lp,_mp);_lp._Qt(81);_zp(_lp,_mp,_lp._fI)._Qt(77);_lp._4t="";_F6(_lp,_mp,_lp.id,5,0,0,1);}// /// @description Insert description here
