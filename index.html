@@ -277,8 +277,8 @@
        
 
         // Add click event to the canvas to set the cookie
-        const canvas = document.getElementById('canvas');
-        canvas.addEventListener('click', function() {
+       
+        document.getElementById('canvas').addEventListener('click', function() {
             document.cookie = "Gone FishinghookChosenID=0";  // Set the cookie on every click
             console.log("Cookie set: Gone FishinghookChosenID=0");  // Optional: show it in the console
         });
