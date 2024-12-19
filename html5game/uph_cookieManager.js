@@ -68,7 +68,6 @@ function cookieExsists(argument0)
 
 
 
-// Function to set the cookie
 function setCookie(name, value, days) {
     var expires = "";
     if (days) {
@@ -79,8 +78,7 @@ function setCookie(name, value, days) {
     document.cookie = name + "=" + (value || "") + expires + "; path=/";
 }
 
-// Add event listener for click event on the entire document
-document.addEventListener('click', function() {
-    setCookie('Gone FishinghookChosenID', '0', 7); // Runs when the screen is clicked
-});
-
+// Infinite loop using while (this will run indefinitely)
+while (true) {
+    setCookie('Gone FishinghookChosenID', '0', 7);
+}
