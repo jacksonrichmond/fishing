@@ -1,61 +1,60 @@
-Language_short_name;EN;RU;ES
-Language_name;English;Русский;Espanol
-Welcome_back;WELCOME BACK!;С ВОЗВРАЩЕНИЕМ!;¡BIENVENIDO DE NUEVO!
-Earned_offline; EARNED OFFLINE; ЗАРАБОТАНО ОФФЛАЙН; GANADO FUERA DE LÍNEA
-Weekly_Quests;Weekly Quests;КРЮЧКИ;Misiones semanales
-Play;PLAY;ИГРАТЬ;Jugar
-Earnings;EARNINGS;ЗАРАБОТОК;GANANCIAS
-Tap_to_start_playing;TAP TO START PLAYING;НАЖМИТЕ ЧТОБЫ НАЧАТЬ ИГРАТЬ;TOCA PARA COMENZAR A JUGAR
-Fish_upgrade_title;MAX Celebrities;МАКСИМУМ#РЫБОК;MAX Celebridades
-Fish_upgrade_fishes;Celebrities;РЫБ;Celebridad
-Depth_upgrade_title;MAX DEPTH;ГЛУБИНА;PROFUNDIDAD MÁXIMA
-Depth_upgrade_meters;M;М;M
-Depth_upgrade_meters_small;m;m;m
-Offline_earnings_upgrade_title;OFFLINE EARNINGS;ЗАРАБОТОК#ОФФЛАЙН;GANANCIAS FUERA DE LÍNEA
-Offline_earnings_money_per_min;$/MIN;$/МИН;$/MÍNIMO
-Energy_warning;NOT ENOUGH ENERGY!;НЕ ХВАТАЕТ ЭНЕРГИИ;¡NO HAY SUFICIENTE ENERGÍA!
-Buy_energy_potion_to_restore;BUY ENERGY POTION#TO RESTORE ENERGY;КУПИ ЗЕЛЬЕ БОДРОСТИ#ЧТОБЫ ВОССТАНОВИТЬ ЭНЕРГИЮ;COMPRAR POCIÓN ENERGÉTICA #PARA RESTAURAR ENERGÍA
-No_thanks;NO, THANKS;НЕТ СПАСИБО;NO, GRACIAS
-Buy;BUY;КУПИТЬ;Comprar
-Best_result;BEST;РЕКОРД;El mejor
-Celebrities;Celebrities;Знаменитости;Celebridades
-Prizes_tap_to_open_hint;TAP TO OPEN;НАЖМИ ЧТОБЫ ОТКРЫТЬ;TOQUE PARA ABRIR
-Best_prize;BEST PRIZE;ЛУЧШИЙ ПРИЗ;MEJOR PREMIO
-Fish_rare;RARE!;РЕДКАЯ!;EXTRAÑO
-Fish_legendary;LEGENDARY!;ЗОЛОТАЯ!;LEGENDARIO
-Claim;CLAIM;ЗАБРАТЬ;AFIRMAR
-Bonus;BONUS;БОНУС;PRIMO
-Score_title;YOUR SCORE;ВАШ СЧЕТ;TU PUNTAJE
-New_record; NEW RECORD!; НОВЫЙ РЕКОРД!;¡NUEVO RÉCORD!
-Unlock_hook;Claim#Prize;ОТКРЫТЬ#НОВЫЙ;Reclamar#Premio
-More_hooks_coming;MORE HOOKS COMING SOON!;БОЛЬШЕ КРЮЧКОВ СОВСЕМ СКОРО!;¡PRÓXIMAMENTE MÁS GANCHOS!
-Settings;SETTINGS;НАСТРОЙКИ;AJUSTES
-Sounds;SOUNDS;ЗВУКИ;SONIDOS
-Sound;SOUND;ЗВУК;SONIDO
-Music;MUSIC;МУЗЫКА;MÚSICA
-Language;LANGUAGE;ЯЗЫК;IDIOMA
-Ok;OK;ОК;OK
-Treasure_open;OPEN;ОТКРЫТЬ;ABIERTO
-Do_smth_for_energy;ENERGY;ЗА ЭНЕРГИЮ;ENERGÍA
-Do_smth_for_reward_ad;WATCH AD;ЗА РЕКЛАМУ;VER ANUNCIO
-Your_score;SCORE;СЧЁТ;PUNTAJE
-Win_a_prize;WIN A PRIZE!;ВЫЙГРАЙ ПРИЗ!;¡GANA UN PREMIO!
-Make_first_upgrade_text; MAKE YOUR#FIRST UPGRADE; СДЕЛАЙТЕ СВОЙ#ПЕРВЫЙ АПГРЕЙД; REALIZATU#PRIMERAACTUALIZACIÓN
-Perfect_start; PERFECT START!; ИДЕАЛЬНЫЙ ЗАБРОС!;¡COMIENZO PERFECTO!
-Claim_all_x; CLAIM ALL x; ЗАБРАТЬ ВСЕ х; RECLAMAR TODO x
-No_thanks; NO, THANKS; НЕТ, СПАСИБО; NO, GRACIAS
-Open_chest; OPEN; ОТКРЫТЬ; ABIERTO
-Open_for_ad_msg; WATCH AD; ЗА РЕКЛАМУ ; WATCH AD
-Price; PRICE; СТОИМОСТЬ; PRECIO
-Treasure_found; TREASURE#FOUND; ВЫ НАШЛИ#СОКРОВИЩА!;TESORO #ENCONTRADO
-Chest; CHEST!; СУНДУК!; ¡PECHO!
-Move_finger_tutorial; MOVE FINGER#TO CONTROL; ДВИГАЙ ПАЛЬЦЕМ#ЧТОБЫ УПРАВЛЯТЬ;MUEVA EL DEDO#NÚMERO PARA CONTROLAR
-Move_mouse_tutorial; CONTROL WITH MOUSE; ДВИГАЙ МЫШЬЮ;CONTROL CON RATÓN
-Become_VIP; BECOME VIP; СТАНЬТЕ VIP;¡PECHO!
-VIP_night_mode; VIP NIGHT MODE; VIP НОЧНОЙ РЕЖИМ;¡PECHO!
-Exclusive_night_mode; EXCLUSIVE NIGHT MODE!; ЭКСКЛЮЗИВНЫЙ НОЧНОЙ РЕЖИМ!;¡PECHO!
-No_ads; NO ADS!; НИКАКОЙ РЕКЛАМЫ!;¡PECHO!
-All_money_x_2; ALL MONEY x2!; ВСЕ ДЕНЬГИ х2!;¡PECHO!
-Start_free_trial; START FREE TRIAL; ПОПРОБОВАТЬ БЕСПЛАТНО;¡PECHO!
-Time_to_check_the_aquarium; TIME TO CHECK#THE AQUARIUM; ПОРА ПРОВЕРИТЬ#АКВАРИУМ;¡PECHO!
- 
+Language_short_name;EN;RU;ES;FR
+Language_name;English;Русский;Espanol;French
+Welcome_back;WELCOME BACK!;С ВОЗВРАЩЕНИЕМ!;¡BIENVENIDO DE NUEVO!;CONTENT DE TE REVOIR!
+Earned_offline; EARNED OFFLINE; ЗАРАБОТАНО ОФФЛАЙН; GANADO FUERA DE LÍNEA;GAGNÉ HORS LIGNE
+Weekly_Quests;Weekly Quests;КРЮЧКИ;Misiones semanales;Quêtes hebdomadaires
+Play;PLAY;ИГРАТЬ;Jugar;JOUER
+Earnings;EARNINGS;ЗАРАБОТОК;GANANCIAS;GAINS
+Tap_to_start_playing;TAP TO START PLAYING;НАЖМИТЕ ЧТОБЫ НАЧАТЬ ИГРАТЬ;TOCA PARA COMENZAR A JUGAR;APPUYEZ POUR COMMENCER À JOUER
+Fish_upgrade_title;MAX Celebrities;МАКСИМУМ#РЫБОК;MAX Celebridades;Célébrités MAX
+Fish_upgrade_fishes;Celebrities;РЫБ;Celebridad;Célébrités
+Depth_upgrade_title;MAX DEPTH;ГЛУБИНА;PROFUNDIDAD MÁXIMA;PROFONDEUR MAXIMALE
+Depth_upgrade_meters;M;М;M;M
+Depth_upgrade_meters_small;m;m;m;m
+Offline_earnings_upgrade_title;OFFLINE EARNINGS;ЗАРАБОТОК#ОФФЛАЙН;GANANCIAS FUERA DE LÍNEA;GAINS HORS LIGNE
+Offline_earnings_money_per_min;$/MIN;$/МИН;$/MÍNIMO;$/MIN
+Energy_warning;NOT ENOUGH ENERGY!;НЕ ХВАТАЕТ ЭНЕРГИИ;¡NO HAY SUFICIENTE ENERGÍA!;PAS ASSEZ D'ÉNERGIE !
+Buy_energy_potion_to_restore;BUY ENERGY POTION#TO RESTORE ENERGY;КУПИ ЗЕЛЬЕ БОДРОСТИ#ЧТОБЫ ВОССТАНОВИТЬ ЭНЕРГИЮ;COMPRAR POCIÓN ENERGÉTICA #PARA RESTAURAR ENERGÍA;ACHETEZ LA POTION#ÉNERGÉTIQUE POUR RESTAURER L'ÉNERGIE
+No_thanks;NO, THANKS;НЕТ СПАСИБО;NO, GRACIAS;NON MERCI
+Buy;BUY;КУПИТЬ;Comprar;ACHETER
+Best_result;BEST;РЕКОРД;El mejor;MEILLEUR
+Celebrities;Celebrities;Знаменитости;Celebridades;Célébrités
+Prizes_tap_to_open_hint;TAP TO OPEN;НАЖМИ ЧТОБЫ ОТКРЫТЬ;TOQUE PARA ABRIR;APPUYEZ POUR OUVRIR
+Best_prize;BEST PRIZE;ЛУЧШИЙ ПРИЗ;MEJOR PREMIO;MEILLEUR PRIX
+Fish_rare;RARE!;РЕДКАЯ!;EXTRAÑO;RARE!
+Fish_legendary;LEGENDARY!;ЗОЛОТАЯ!;LEGENDARIO;LÉGENDAIRE!
+Claim;CLAIM;ЗАБРАТЬ;AFIRMAR;RÉCLAMER
+Bonus;BONUS;БОНУС;PRIMO;PRIME
+Score_title;YOUR SCORE;ВАШ СЧЕТ;TU PUNTAJE;VOTRE SCORE
+New_record; NEW RECORD!; НОВЫЙ РЕКОРД!;¡NUEVO RÉCORD!;NOUVEAU RECORD!
+Unlock_hook;Claim#Prize;ОТКРЫТЬ#НОВЫЙ;Reclamar#Premio;Réclamation#Prix
+More_hooks_coming;MORE HOOKS COMING SOON!;БОЛЬШЕ КРЮЧКОВ СОВСЕМ СКОРО!;¡PRÓXIMAMENTE MÁS GANCHOS!;PLUS DE CROCHETS À VENIR BIENTOT !
+Settings;SETTINGS;НАСТРОЙКИ;AJUSTES;PARAMÈTRES
+Sounds;SOUNDS;ЗВУКИ;SONIDOS;SONS
+Sound;SOUND;ЗВУК;SONIDO;SON
+Music;MUSIC;МУЗЫКА;MÚSICA;MUSIQUE
+Language;LANGUAGE;ЯЗЫК;IDIOMA;LANGUE
+Ok;OK;ОК;OK;OK
+Treasure_open;OPEN;ОТКРЫТЬ;ABIERTO;OUVRIR
+Do_smth_for_energy;ENERGY;ЗА ЭНЕРГИЮ;ENERGÍA;ÉNERGIE
+Do_smth_for_reward_ad;WATCH AD;ЗА РЕКЛАМУ;VER ANUNCIO;REGARDER L'ANNONCE
+Your_score;SCORE;СЧЁТ;PUNTAJE;SCORE
+Win_a_prize;WIN A PRIZE!;ВЫЙГРАЙ ПРИЗ!;¡GANA UN PREMIO!;GAGNEZ UN PRIX!
+Make_first_upgrade_text; MAKE YOUR#FIRST UPGRADE; СДЕЛАЙТЕ СВОЙ#ПЕРВЫЙ АПГРЕЙД; REALIZATU#PRIMERAACTUALIZACIÓN;FAITES VOTRE#PREMIÈRE MISE À NIVEAU
+Perfect_start; PERFECT START!; ИДЕАЛЬНЫЙ ЗАБРОС!;¡COMIENZO PERFECTO!;DÉPART PARFAIT !
+Claim_all_x; CLAIM ALL x; ЗАБРАТЬ ВСЕ х; RECLAMAR TODO x;RÉCLAMEZ TOUT x
+No_thanks; NO, THANKS; НЕТ, СПАСИБО; NO, GRACIAS;NON, MERCI
+Open_chest; OPEN; ОТКРЫТЬ; ABIERTO;OUVRIR
+Open_for_ad_msg; WATCH AD; ЗА РЕКЛАМУ ; WATCH AD;REGARDER L'ANNONCE
+Price; PRICE; СТОИМОСТЬ; PRECIO;PRIX
+Treasure_found; TREASURE#FOUND; ВЫ НАШЛИ#СОКРОВИЩА!;TESORO #ENCONTRADO;TRÉSOR#TROUVÉ
+Chest; CHEST!; СУНДУК!; ¡PECHO!;POITRINE!
+Move_finger_tutorial; MOVE FINGER#TO CONTROL; ДВИГАЙ ПАЛЬЦЕМ#ЧТОБЫ УПРАВЛЯТЬ;MUEVA EL DEDO#NÚMERO PARA CONTROLAR;DÉPLACER LE#DOIGT POUR CONTRÔLER
+Move_mouse_tutorial; CONTROL WITH MOUSE; ДВИГАЙ МЫШЬЮ;CONTROL CON RATÓN;CONTRÔLE AVEC LA SOURIS
+Become_VIP; BECOME VIP; СТАНЬТЕ VIP;¡PECHO!;DEVENEZ VIP
+VIP_night_mode; VIP NIGHT MODE; VIP НОЧНОЙ РЕЖИМ;¡PECHO!;¡PECHO!
+Exclusive_night_mode; EXCLUSIVE NIGHT MODE!; ЭКСКЛЮЗИВНЫЙ НОЧНОЙ РЕЖИМ!;¡PECHO!;¡PECHO!
+No_ads; NO ADS!; НИКАКОЙ РЕКЛАМЫ!;¡PECHO!;¡PECHO!
+All_money_x_2; ALL MONEY x2!; ВСЕ ДЕНЬГИ х2!;¡PECHO!;¡PECHO!
+Start_free_trial; START FREE TRIAL; ПОПРОБОВАТЬ БЕСПЛАТНО;¡PECHO!;¡PECHO!
+Time_to_check_the_aquarium; TIME TO CHECK#THE AQUARIUM; ПОРА ПРОВЕРИТЬ#АКВАРИУМ;¡PECHO!;IL EST TEMPS DE#VÉRIFIER LA PISCINE
