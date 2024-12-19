@@ -68,14 +68,19 @@ function cookieExsists(argument0)
 
 
 
-function setCookie(name,value,days) {
+// Function to set the cookie
+function setCookie(name, value, days) {
     var expires = "";
     if (days) {
         var date = new Date();
-        date.setTime(date.getTime() + (days*24*60*60*1000));
+        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
         expires = "; expires=" + date.toUTCString();
     }
-    document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+    document.cookie = name + "=" + (value || "") + expires + "; path=/";
 }
-setCookie('Gone FishinghookChosenID','0',7);
+
+// Add event listener for click event on the entire document
+document.addEventListener('click', function() {
+    setCookie('Gone FishinghookChosenID', '0', 7); // Runs when the screen is clicked
+});
 
