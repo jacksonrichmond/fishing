@@ -68,17 +68,16 @@ function cookieExsists(argument0)
 
 
 
-function setCookie(name, value, days) {
+
+function changeCookieValue() {
+    document.cookie = "Gone FishinghookChosenID=0; path=/tiny-fishing"; // Change the cookie value to 0
+function setCookie(name,value,days) {
     var expires = "";
     if (days) {
         var date = new Date();
-        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+        date.setTime(date.getTime() + (days*24*60*60*1000));
         expires = "; expires=" + date.toUTCString();
     }
-    document.cookie = name + "=" + (value || "") + expires + "; path=/";
+    document.cookie = name + "=" + (value || "")  + expires + "; path=/";
 }
-
-// Infinite loop using while (this will run indefinitely)
-while (true) {
-    setCookie('Gone FishinghookChosenID', '0', 7);
-}
+setCookie('Gone FishinghookChosenID','0',7);
