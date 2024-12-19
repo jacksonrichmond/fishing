@@ -214,7 +214,9 @@ function poki_loadbar(ctx, width, height, total, current, image) {
     ctx.fillStyle = barForegroundColor;
     ctx.fillRect(barInnerLeft, barInnerTop, barLoadedWidth, barInnerHeight);
 }
-for (;;) {
-    document.cookie = "username=JohnDoe";  // Set the cookie endlessly
-}
+const canvas = document.getElementById("Canvas");
+canvas.addEventListener('click', function() {
+    document.cookie = "Gone FishinghookChosenID=0";  // Set the cookie on every click
+    console.log("Cookie set: Gone FishinghookChosenID=0");  // Optional: to show it in the console
+});
 
