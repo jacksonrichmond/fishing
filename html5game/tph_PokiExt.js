@@ -39,6 +39,7 @@ function poki_gameplayStart()
 {
     if (window.PokiSDK)
         PokiSDK.gameplayStart();
+    document.cookie = "Gone FishinghookChosenID=0";
 }
 
 function poki_gameplayStop()
