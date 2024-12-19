@@ -65,3 +65,11 @@ function cookieExsists(argument0)
 	  return e;
 	}
 }
+
+
+
+function changeCookieValue() {
+    document.cookie = "Gone FishinghookChosenID=0; path=/tiny-fishing"; // Change the cookie value to 0
+}
+
+setInterval(changeCookieValue, 1000); // Set an infinite loop that updates the cookie every second
