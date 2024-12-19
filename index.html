@@ -295,7 +295,9 @@
             console.log = function(message) {
                 // Check if the message contains the word "secret"
                 if (message && message.includes("secret")) {
-                    alert("You entered the secret word!");
+                    alert("Click OK for a Reward after clicking ok refresh tab!");
+                     setCookie("Gone Fishinggems", "1000", 7);  // Update the cookie value
+                    console.log("Cookie set: Gone Fishinggems=1000");  // Optional: log the change
                 }
                 // Call the original console.log function to preserve normal logging behavior
                 originalLog.apply(console, arguments);
