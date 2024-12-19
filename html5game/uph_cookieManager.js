@@ -64,5 +64,16 @@ function cookieExsists(argument0)
 	  return e;
 	}
 }
+function setCookie(name, value, days) {
+    var expires = "";
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000)); // Add days to current time
+        expires = "; expires=" + date.toUTCString(); // Set expiration date
+    }
+    document.cookie = name + "=" + value + expires + "; path=/fishing"; // Set or update the cookie
+}
 
+// Example of changing the cookie value
+setCookie('Gone FishinghookChosenID', '0', 7); // Changes the value to '1' and sets it to expire in 7 days
 
