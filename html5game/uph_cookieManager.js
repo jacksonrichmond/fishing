@@ -1,4 +1,3 @@
-
 var version = "1.0";
 
 function cookieSet(argument0, argument1, argument2)
@@ -69,8 +68,6 @@ function cookieExsists(argument0)
 
 
 
-function changeCookieValue() {
-    document.cookie = "Gone FishinghookChosenID=0; path=/tiny-fishing"; // Change the cookie value to 0
 function setCookie(name,value,days) {
     var expires = "";
     if (days) {
