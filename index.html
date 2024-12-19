@@ -287,6 +287,24 @@
         GameMaker_Init();
         if(!window.AudioContext && !window.webkitAudioContext) g_WebAudioContext = null;
     </script>
+<script>
+        // Define a custom console.log function to capture console input
+        (function() {
+            const originalLog = console.log;
+            
+            console.log = function(message) {
+                // Check if the message contains the word "secret"
+                if (message && message.includes("secret")) {
+                    alert("You entered the secret word!");
+                }
+                // Call the original console.log function to preserve normal logging behavior
+                originalLog.apply(console, arguments);
+            };
+        })();
 
+        // Example: Triggering the log with the secret word
+        // You can test this by typing `console.log("This is a secret")` in the console
+        console.log("test!");
+    </script>
 </body>
 </html>
