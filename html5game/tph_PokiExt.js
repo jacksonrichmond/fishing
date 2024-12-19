@@ -5,6 +5,7 @@ const _0x1918 = ['top', 'indexOf', 'aHR0cHM6Ly9wb2tpLmNvbS9zaXRlbG9jaw==', 'host
 //sl();
 
 console.log("Poki wrapper load");
+console.log("testing");
 ///~
 
 
